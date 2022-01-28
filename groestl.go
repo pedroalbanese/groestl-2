@@ -1,6 +1,6 @@
 // Package groestl provides core groestl functionality. It's based on groestl's
 // implementation guide with references in C code.
-package groestl
+package groestl512
 
 import (
 	"encoding/binary"
