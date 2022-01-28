@@ -1,4 +1,4 @@
-package groestl
+package groestl512
 
 import (
 	"encoding/hex"
